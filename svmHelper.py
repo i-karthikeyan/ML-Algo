@@ -1,5 +1,3 @@
-# if __name__ == "__main__":
-    # Imports
 import numpy as np
 from svm import SVM
 
